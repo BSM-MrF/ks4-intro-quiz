@@ -1,0 +1,2 @@
+What type of storage device is a HDD?;Magnetic;Optical;Solid State;Primary
+What does CPU mean?;Central Processing Unit;Central Programming Unit;Core Processing Unit;Clear Plastic Unit
